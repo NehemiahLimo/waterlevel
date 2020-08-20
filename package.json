@@ -1,6 +1,11 @@
 {
   "name": "testsigfox",
+<<<<<<< HEAD
+  "proxy":"https://api.sigfox.com/v2",
+  "homepage": ".",
+=======
   "homepage": "https://quizzical-carson-419852.netlify.app/",
+>>>>>>> bbf71f3a5e1e802b92db9c6c61e9242fbd199fa7
   "version": "0.1.0",
   
   "private": true,
