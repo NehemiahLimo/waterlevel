@@ -14,13 +14,16 @@ body {
 }
 .nav-container{
   margin: auto;
+  min-height: 128;
 }
 
 .background{
   color:  grey.300;
 }
 
-
+.butondesign{
+  padding-left: 2;
+}
 
 
 .App {

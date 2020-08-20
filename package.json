@@ -1,6 +1,7 @@
 {
   "name": "testsigfox",
-  "homepage": "http://codesoft.co.ke/",
+  "proxy":"https://api.sigfox.com/v2",
+  "homepage": ".",
   "version": "0.1.0",
   
   "private": true,
